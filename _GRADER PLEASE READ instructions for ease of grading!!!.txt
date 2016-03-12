@@ -1,0 +1,9 @@
+For faster grading made you and HTML file and an R markdown file
+named "Plotting_Assignment_1_for_Exploratory_Data_Analysis.html. 
+you can click on the html file for all the graphs and code.
+Learned to do this in the reproducing data class.
+
+Or load the "Data Processing File" through source button in RStudio
+and then source the plot files to display the graphs. 
+
+Thank you for taking your time to read this. 
